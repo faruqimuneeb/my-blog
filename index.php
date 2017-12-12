@@ -1,6 +1,8 @@
 <?php 
 
     include "include/header.php";
+
+    echo "TEst change";
 ?>
         <!--========== PAGE CONTENT ==========-->
         <!--========== SWIPER SLIDER ==========-->
